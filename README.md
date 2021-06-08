@@ -12,6 +12,8 @@ For now the callbacks include:
 
 - End: Occurs after the process ends.
 
+- TError: Occurs when Termhook runs into an error.
+
 ## Termhook API
 
 Using the Termhook API, you can seamlessly integrate your product with Termhook and get started. The Termhook API allows you to create functions, callable by your users.
